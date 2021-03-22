@@ -1,0 +1,30 @@
+  #description{
+      text-align: center;
+  }
+
+  .jumbotron{
+    text-align: center;
+    background-color: transparent !important;
+  }
+
+  #topic{
+    font-size: xx-large;
+    text-align: center;
+  }
+
+  .content{
+    align-items: center;
+  }
+
+  .card{
+    display: inline-block;
+
+  }
+
+  form{
+    text-align: center;
+  }
+
+  .category-heading{
+    text-align: center;
+  }
